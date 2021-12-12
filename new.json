@@ -1,0 +1,11 @@
+{
+	"Name": "Lily Arslanova",
+	"Age": 41,
+	"Pets": {
+		"Number": 3,
+		"Type": "spiders",
+		"Name_1": "Janet",
+		"Name_2": "Johnny",
+		"Name_3": "Jocelyn"},
+	"Salary": "£27000 annual"
+}
